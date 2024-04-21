@@ -21,5 +21,5 @@
 
 ## 日向坂46（けやき坂46）成员生日日历
 
-- ics 文件: hinata46_member_birthday_calendar.ics
+- ics 文件: hinatazaka46_member_birthday_calendar.ics
 - Google Calendar[共享链接](https://calendar.google.com/calendar/u/0?cid=NTkxYjQyYmU1NWQyMDM1MzkxMDZkZThmOGUwMmZiMGM2ZjMyYTA3YjdmN2FmOWNhZjRmYWMyMWNhZjY2NGRhMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
